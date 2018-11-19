@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Using inline CSS styles</title>
+        <link rel="stylesheet" type="text/css" href= "https://github.com/dockeryg22/CSS-style/new/master">
+        <style>
+        body {
+            font-family: sans-serif;
+        }
+        
+        h2 {
+            color: rgb(150, 50, 200);
+        }
+        
+        </style>
+    </head>
+        </html>
